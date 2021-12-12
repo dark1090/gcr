@@ -1,0 +1,1 @@
+from ingress-nginx/controller:latest
