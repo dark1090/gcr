@@ -1,1 +1,1 @@
-from ingress-nginx/controller:latest
+from ingress-nginx/controller:v1.1.0
